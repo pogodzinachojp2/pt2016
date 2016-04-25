@@ -1,2 +1,4 @@
 # pt2016
-Project of clothes shop web page
+Po Godzinach
+
+Projekt na Przedsiêbiorczoœæ Technologiczna, PG 2016
