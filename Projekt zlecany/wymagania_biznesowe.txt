@@ -1,0 +1,10 @@
+1. aplikacja mobilna 
+2. funkcja geolokalizacji 
+3. baza miejscówek 
+4. opcja stworzenia indywidualnego profilu 
+5. ³¹czenie z fb 
+6. zarz¹dzanie interesuj¹cymi wydarzeniami w okolicy 
+7. reminder kiedy jest event, na który siê zapisano 
+8. apka zasugeruje gdzie iœæ w zale¿noœci od profilu u¿ytkownika (gustu) 
+9. repertuary kin, koncertow i harmonogramy eventów 
+10. estetyczny interfejs
